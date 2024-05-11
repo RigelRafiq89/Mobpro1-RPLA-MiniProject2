@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hospital Employees</string>
+    <string name="list_kosong">There is no data</string>
+    <string name="x_diklik">%1$s clicked!</string>
+    <string name="tambah_karyawan">Add employee</string>
+    <string name="tambah_error">Cannot add employee.</string>
+    <string name="nama">Name</string>
+    <string name="noPegawai">Employee number</string>
+    <string name="posisi">Position</string>
+    <string name="kembali">Back</string>
+    <string name="simpan">Save</string>
+    <string name="edit_karyawan">Edit employee</string>
+    <string name="invalid">Name and employee number cannot be empty</string>
+    <string name="lainnya">Another option</string>
+    <string name="hapus">Delete employee</string>
+    <string name="pesan_hapus">Delete this employee</string>
+    <string name="tombol_hapus">Delete</string>
+    <string name="tombol_batal">Cancel</string>
+    <string name="list">List view</string>
+    <string name="grid">Grid view</string>
+    <string name="dokter">Doctor</string>
+    <string name="suster">Nurse</string>
+    <string name="apoteker">Pharmacist</string>
+    <string name="administrasi">Administration</string>
+    <string name="cs">Cleaning service</string>
+
+</resources>
